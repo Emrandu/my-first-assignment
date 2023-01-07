@@ -1,0 +1,230 @@
+*{
+    margin: 10px;
+}
+
+
+.header-section{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 900px;
+    text-align: right;
+  
+}
+.description{
+    float: right;
+    width: 500px;
+    margin-top:350px ;
+    margin-right: 200px;
+    
+}
+.description h1{
+    font-size: 65px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: white;
+}
+.description p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
+button{
+    font-size: 18px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    background-color:#FFFFFF ;
+    border: none;
+
+}
+button a{
+    text-decoration: none;
+     
+}
+
+
+.container{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    justify-content: right;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+.failures{
+    width: 500px;
+    margin-top: 250px;
+    margin-right:400px ;
+   
+}
+.img-section{
+    width: 700px;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.failures h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.failures p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+ul li i{
+    color: rgb(209, 209, 227);
+    padding-right: 20px;
+}
+
+
+.container3{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.plan{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 60px;
+}
+
+
+.main-div{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+.sub-div{
+    width: 250px;
+    height: 250px;
+    background-color: #efe9e9;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+}
+.self{
+    height: 800px;
+    background-color: rgb(235, 231, 226);
+    background-image: url(../images/success_tree.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+}
+.s-left1 h5{
+    font-size: 18px;
+    margin-bottom: 40px;
+
+}
+.s-left2 h5{
+    font-size: 18px;
+    margin-bottom: 40px;
+
+}
+.s-right1 h5{
+    font-size: 18px;
+    margin-bottom: 40px;
+
+}
+.s-right2 h5{
+    font-size: 18px;
+    margin-bottom: 40px;
+
+}
+   
+.s-heading{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 60px;
+    color: rgb(237, 128, 88);
+    
+}
+.s-parent{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.mind-set{
+    
+    margin-left: 350px;
+    margin-top: 100px;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    
+    
+    
+    
+}
+.H-b{
+    height: 400px;
+   margin: 60px;
+   padding-top: 50px;
+   background-image: linear-gradient(to left,rgba(255,0,0,.4),rgba(255,0,0,.4));
+  
+   
+}
+
+.H-b h1{
+    font-size: 40px;
+
+}
+
+.f-container{
+   height: 600px;
+  display: flex; 
+  justify-content: center;
+  background-color: black;
+  margin-top: 50px;
+}
+
+.f-left{
+    width: 50%;
+   margin-left: 250px;
+   margin-top: 180px;
+   color: #FFFFFF;
+}
+.f-left h1{
+    font-size: 50px;
+    font-weight: 800;
+
+}
+.f-left b{
+    font-size: 20px;
+    margin-bottom: 30px;
+    
+}
+.f-left img{
+    padding: 10px;
+}
+
+.f-right{
+    width: 50%;
+    margin-top: 180px;
+    color: #FFFFFF;
+    margin-left: 200px;
+
+}
+.f-right h1{
+    font-size: 50px;
+    
+}
+#email{
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    border-color:antiquewhite;
+    margin-bottom: 20px;
+}
+
